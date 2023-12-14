@@ -4,9 +4,9 @@ A bezier curve editor implemented in Python with an option to save as a Desmos g
 
 Access Desmos here: https://www.desmos.com/calculator.
 
-A bezier curve from [Wikipedia](https://en.wikipedia.org/wiki/File:B%C3%A9zier_3_big.gif):
+A bezier curve from [Wikipedia](https://en.wikipedia.org/wiki/File:B%C3%A9zier_3_big.gif).
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AB%25C3%25A9zier_3_big.gif&psig=AOvVaw1Bw52iKp-Q7ltx5aBNLyhp&ust=1702617083496000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLDJ0IaVjoMDFQAAAAAdAAAAABAI" alt="Bezier curve example">
+<!-- <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fen.wikipedia.org%2Fwiki%2FFile%3AB%25C3%25A9zier_3_big.gif&psig=AOvVaw1Bw52iKp-Q7ltx5aBNLyhp&ust=1702617083496000&source=images&cd=vfe&opi=89978449&ved=0CA8QjRxqFwoTCLDJ0IaVjoMDFQAAAAAdAAAAABAI" alt="Bezier curve example"> -->
 
 ## Installation and Usage
 
